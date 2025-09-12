@@ -104,27 +104,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Palian Pals, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Palian Pals, Inc.`,
       },
       prism: {
         theme: prismThemes.github,
