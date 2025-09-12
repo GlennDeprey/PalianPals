@@ -1,11 +1,14 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import homeJoin from '@site/static/img/home_join.png';
+import homeEvent from '@site/static/img/home_event.png';
+import homeGuides from '@site/static/img/home_guides.png';
 
 const FeatureList = [
   {
     title: 'Join the Community',
-    Img: require('@site/static/img/home_join.png'),
+    Img: homeJoin,
     description: (
       <>
         Connect with fellow Palia players, join discussions, 
@@ -15,7 +18,7 @@ const FeatureList = [
   },
   {
     title: 'Event Guides',
-    Img: require('@site/static/img/home_event.png'),
+    Img: homeEvent,
     description: (
       <>
         Stay updated with upcoming events, learn how to participate, 
@@ -25,7 +28,7 @@ const FeatureList = [
   },
   {
     title: 'Game Tips & Tutorials',
-    Img: require('@site/static/img/home_guides.png'),
+    Img: homeGuides,
     description: (
       <>
         Discover guides, tutorials, and helpful advice about Palia. 
