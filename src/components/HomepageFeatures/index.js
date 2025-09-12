@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Join the Community',
-    Svg: require('@site/static/img/undraw_community.svg').default, // replace with your Palia-related SVG
+    Img: require('@site/static/img/home_join.png'),
     description: (
       <>
         Connect with fellow Palia players, join discussions, 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Event Guides',
-    Svg: require('@site/static/img/undraw_events.svg').default, // replace with your Palia-related SVG
+    Img: require('@site/static/img/home_event.png'),
     description: (
       <>
         Stay updated with upcoming events, learn how to participate, 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Game Tips & Tutorials',
-    Svg: require('@site/static/img/undraw_tutorial.svg').default, // replace with your Palia-related SVG
+    Img: require('@site/static/img/home_guides.png'),
     description: (
       <>
         Discover guides, tutorials, and helpful advice about Palia. 
@@ -35,12 +35,11 @@ const FeatureList = [
   },
 ];
 
-
-function Feature({Svg, title, description}) {
+function Feature({ Img, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img className={styles.featureSvg} src={Img} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
