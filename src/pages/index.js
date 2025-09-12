@@ -6,6 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import headerBanner from '@site/src/img/header_banner.png';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -13,7 +14,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       {/* Villagers overlay image */}
       <img
-        src="/img/header_banner.png"
+        src={headerBanner}
         className={styles.heroBannerImg}
         alt="Palia Villagers"
       />
