@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx('button button--lg', styles.paliaButton)}
-            to="/community"
+            to="https://discordapp.com/invite/PalianPals"
           >
             🌸 Join the Community
           </Link>
