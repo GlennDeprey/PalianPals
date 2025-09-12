@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
-import headerBanner from '@site/src/img/header_banner.png';
+import headerBanner from '@site/static/img/header_banner.png';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
