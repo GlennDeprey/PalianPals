@@ -81,13 +81,20 @@
 .button--primary:hover {
   background-color: var(--ifm-color-primary-dark);
 }
+
 .button--secondary {
   background-color: var(--palia-accent);
   color: #fff;
   border-radius: 8px;
+  border: none;
 }
+
 .button--secondary:hover {
-  background-color: #d17fb2;
+  background-color: #c98fb5; /* a softer, less saturated pink/lavender */
+}
+
+.button--secondary:hover {
+  background-color: var(--ifm-color-primary-dark); /* forest green hover */
 }
 
 /* 🌸 Cards & Doc Items */
