@@ -85,7 +85,7 @@ const config = {
         title: 'Palian Pals',
         logo: {
           alt: 'Palian Pals Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {
