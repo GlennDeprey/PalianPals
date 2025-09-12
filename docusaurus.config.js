@@ -96,8 +96,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: `https://github.com/${organizationName}/${projectName}`,
-            label: 'GitHub',
+            href: `https://discordapp.com/invite/PalianPals`,
+            label: 'Discord',
             position: 'right',
           },
         ],
