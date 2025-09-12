@@ -30,26 +30,24 @@
 }
 
 [data-theme='dark'] {
-  /* 🌙 Palia Dark Mode */
-  --ifm-color-primary: #924C9E;   /* cozy lilac */
-  --ifm-color-primary-dark: #7d3f87;
-  --ifm-color-primary-darker: #6b3674;
-  --ifm-color-primary-darkest: #522a59;
+  --ifm-color-primary: #9a7bd1;   /* lavender twilight */
+  --ifm-color-primary-dark: #8261bb;
+  --ifm-color-primary-darker: #6b4fa1;
+  --ifm-color-primary-darkest: #533d80;
 
-  --ifm-color-primary-light: #b16bbd;
-  --ifm-color-primary-lighter: #c689cd;
-  --ifm-color-primary-lightest: #dba9de;
+  --ifm-color-primary-light: #b59ae0;
+  --ifm-color-primary-lighter: #d2bdf0;
+  --ifm-color-primary-lightest: #e8dbfa;
 
-  --ifm-background-color: #271e30; /* twilight purple/navy */
-  --ifm-heading-color: #f4ece3;    /* parchment text */
+  --ifm-background-color: #1f1a24; /* deep twilight (neutral base) */
+  --ifm-heading-color: #f5f0e8;    /* parchment white */
   --ifm-font-family-base: 'Quicksand', 'Nunito Sans', sans-serif;
 
-  --docusaurus-highlighted-code-line-bg: rgba(168, 213, 186, 0.15);
+  --palia-accent: #6fbfa3;   /* soft leaf green accent */
+  --palia-surface: #2a2433;  /* softer card bg */
+  --palia-border: #3c3447;
 
-  /* Accent */
-  --palia-accent: #e9a2cb; /* blossom glow */
-  --palia-surface: #33283f;
-  --palia-border: #4b3a55;
+  --docusaurus-highlighted-code-line-bg: rgba(154, 123, 209, 0.15);
 }
 
 /* 🌸 Navbar */
