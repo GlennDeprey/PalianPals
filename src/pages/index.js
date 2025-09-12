@@ -8,6 +8,35 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      {/* Villagers overlay image */}
+      <img
+        src="/img/header_banner.png"
+        className={styles.heroBannerImg}
+        alt="Palia Villagers"
+      />
+
+      <div className="container">
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://discordapp.com/invite/PalianPals"
+          >
+            🌸 Join the Community
+          </Link>
+        </div>
+      </div>
+    </header>
+  );
+}
+
+function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
