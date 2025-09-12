@@ -4,36 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Join the Community',
+    Svg: require('@site/static/img/undraw_community.svg').default, // replace with your Palia-related SVG
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Connect with fellow Palia players, join discussions, 
+        and make new friends in our welcoming community.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Event Guides',
+    Svg: require('@site/static/img/undraw_events.svg').default, // replace with your Palia-related SVG
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Stay updated with upcoming events, learn how to participate, 
+        and find tips to make the most of every in-game celebration.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Game Tips & Tutorials',
+    Svg: require('@site/static/img/undraw_tutorial.svg').default, // replace with your Palia-related SVG
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Discover guides, tutorials, and helpful advice about Palia. 
+        From gameplay mechanics to crafting and exploration, we’ve got you covered.
       </>
     ),
   },
 ];
+
 
 function Feature({Svg, title, description}) {
   return (
