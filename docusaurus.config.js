@@ -123,19 +123,6 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: `https://github.com/${organizationName}/${projectName}`,
-              },
-            ],
-          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Palian Pals, Inc. Built with Docusaurus.`,
       },
