@@ -10,17 +10,16 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero', styles.paliaHero)}>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className={styles.heroTitle}>
+        <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className={clsx('button button--lg', styles.paliaButton)}
-            to="https://discordapp.com/invite/PalianPals"
-          >
+            className="button button--secondary button--lg"
+            to="https://discordapp.com/invite/PalianPals">
             🌸 Join the Community
           </Link>
         </div>
