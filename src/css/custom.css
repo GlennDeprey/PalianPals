@@ -60,6 +60,10 @@
   border-bottom: 2px solid var(--palia-border);
 }
 
+.sidebar {
+  background-color: var(--palia-surface);
+}
+
 /* 🌸 Footer */
 .footer {
   background-color: var(--ifm-color-primary-darkest);
