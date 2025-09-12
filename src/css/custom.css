@@ -6,7 +6,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #5a7f65;   /* Palia forest green */
+  /* 🌿 Palia Light Mode */
+  --ifm-color-primary: #5a7f65;   /* forest green */
   --ifm-color-primary-dark: #466452;
   --ifm-color-primary-darker: #3c5545;
   --ifm-color-primary-darkest: #2f4336;
@@ -21,22 +22,100 @@
 
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(90, 127, 101, 0.15);
+
+  /* Accent */
+  --palia-accent: #e9a2cb; /* blossom pink */
+  --palia-surface: #ffffff;
+  --palia-border: #e0d6cc;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #924C9E;   /* soft leaf green */
-  --ifm-color-primary-dark: #8abc9e;
-  --ifm-color-primary-darker: #6f9e83;
-  --ifm-color-primary-darkest: #567a66;
+  /* 🌙 Palia Dark Mode */
+  --ifm-color-primary: #924C9E;   /* cozy lilac */
+  --ifm-color-primary-dark: #7d3f87;
+  --ifm-color-primary-darker: #6b3674;
+  --ifm-color-primary-darkest: #522a59;
 
-  --ifm-color-primary-light: #c7e7d1;
-  --ifm-color-primary-lighter: #e1f3e8;
-  --ifm-color-primary-lightest: #f5fcf8;
+  --ifm-color-primary-light: #b16bbd;
+  --ifm-color-primary-lighter: #c689cd;
+  --ifm-color-primary-lightest: #dba9de;
 
-  --ifm-background-color: #271e30; /* twilight navy instead of brown */
-  --ifm-heading-color: #f4ece3;    /* parchment white text */
+  --ifm-background-color: #271e30; /* twilight purple/navy */
+  --ifm-heading-color: #f4ece3;    /* parchment text */
   --ifm-font-family-base: 'Quicksand', 'Nunito Sans', sans-serif;
 
   --docusaurus-highlighted-code-line-bg: rgba(168, 213, 186, 0.15);
+
+  /* Accent */
+  --palia-accent: #e9a2cb; /* blossom glow */
+  --palia-surface: #33283f;
+  --palia-border: #4b3a55;
+}
+
+/* 🌸 Navbar */
+.navbar {
+  background-color: var(--ifm-background-color);
+  border-bottom: 2px solid var(--palia-border);
+}
+[data-theme='dark'] .navbar {
+  background-color: var(--palia-surface);
+  border-bottom: 2px solid var(--palia-border);
+}
+
+/* 🌸 Footer */
+.footer {
+  background-color: var(--ifm-color-primary-darkest);
+  color: #f4ece3;
+}
+.footer a {
+  color: var(--palia-accent);
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+/* 🌸 Buttons */
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border-radius: 8px;
+  border: none;
+}
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+.button--secondary {
+  background-color: var(--palia-accent);
+  color: #fff;
+  border-radius: 8px;
+}
+.button--secondary:hover {
+  background-color: #d17fb2;
+}
+
+/* 🌸 Cards & Doc Items */
+.card, .theme-doc-markdown {
+  background-color: var(--palia-surface);
+  border: 1px solid var(--palia-border);
+  border-radius: 12px;
+  padding: 1rem;
+}
+[data-theme='dark'] .card,
+[data-theme='dark'] .theme-doc-markdown {
+  background-color: var(--palia-surface);
+  border: 1px solid var(--palia-border);
+}
+
+/* 🌸 Links */
+a {
+  color: var(--ifm-color-primary);
+}
+a:hover {
+  color: var(--palia-accent);
+}
+
+/* 🌸 Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ifm-heading-color);
+  font-family: 'Quicksand', 'Nunito Sans', sans-serif;
+  font-weight: 700;
 }
