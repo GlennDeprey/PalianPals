@@ -35,8 +35,8 @@ Once your request is accepted:
 1. Open the Discord server.  
 2. Click on your **profile in the server** (right-click or tap your name).  
 3. Select **Edit Server Profile**. 
-![Discord Server Profile](./img/discord_profile.png)  
 4. Change your **server nickname** to match your **Palia in-game name (IGN)**.
+![Discord Server Profile](./img/discord_profile.png)  
 ![Discord Name](./img/discord_name.png)  
 
 This helps everyone recognize you in the community and keeps our space organized and friendly! 🌿
