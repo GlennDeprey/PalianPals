@@ -30,24 +30,24 @@
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #9a7bd1;   /* lavender twilight */
-  --ifm-color-primary-dark: #8261bb;
-  --ifm-color-primary-darker: #6b4fa1;
-  --ifm-color-primary-darkest: #533d80;
+  --ifm-color-primary: #4dabf7;   /* soft blue */
+  --ifm-color-primary-dark: #339af0;
+  --ifm-color-primary-darker: #228be6;
+  --ifm-color-primary-darkest: #1864ab;
 
-  --ifm-color-primary-light: #b59ae0;
-  --ifm-color-primary-lighter: #d2bdf0;
-  --ifm-color-primary-lightest: #e8dbfa;
+  --ifm-color-primary-light: #74c0fc;
+  --ifm-color-primary-lighter: #a5d8ff;
+  --ifm-color-primary-lightest: #d0ebff;
 
-  --ifm-background-color: #1f1a24; /* deep twilight (neutral base) */
-  --ifm-heading-color: #f5f0e8;    /* parchment white */
+  --ifm-background-color: #1e1e2e; /* dark neutral base */
+  --ifm-heading-color: #e6edf3;    /* soft white */
   --ifm-font-family-base: 'Quicksand', 'Nunito Sans', sans-serif;
 
-  --palia-accent: #6fbfa3;   /* soft leaf green accent */
-  --palia-surface: #2a2433;  /* softer card bg */
-  --palia-border: #3c3447;
+  --palia-accent: #4ecdc4;   /* teal accent */
+  --palia-surface: #2a2a3b;  /* card bg */
+  --palia-border: #3c3c4f;
 
-  --docusaurus-highlighted-code-line-bg: rgba(154, 123, 209, 0.15);
+  --docusaurus-highlighted-code-line-bg: rgba(77, 171, 247, 0.15);
 }
 
 /* 🌸 Navbar */
