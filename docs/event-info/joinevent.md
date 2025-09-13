@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Join an event
+# Join a event
 
 This guide will show you how to **join a community event** in Palia.  
 Following these steps ensures you are prepared and can participate smoothly in shared activities with other players.
@@ -20,16 +20,13 @@ Following these steps ensures you are prepared and can participate smoothly in s
 
 ---
 
-**Voice Chat**
-
+** Voice Chat**
 ![Voice Chat](./img/rsvp_mic.png) 
 
 **Requirement example:**
-
 ![Requirement Example](./img/rsvp_requirements.png) 
 
 **Date example**
-
 ![Date example](./img/rsvp_time.png) 
 
 ---
@@ -38,58 +35,40 @@ Following these steps ensures you are prepared and can participate smoothly in s
 
 We make use of **Sesh** for event sign-ups:  
 
-1. Click **ONE of the roles** to sign up for the event (this can be a team or a ingredient in case of cooking events).  
-2. Make sure your RSVP is confirmed — you may receive a notification or confirmation message.  
+1. Open the **Discord server** and navigate to the channel corresponding to the day of the event.  
+2. Click **ONE of the roles** to sign up for the event (this can be a team or a ingredient in case of cooking events).  
+3. Make sure your RSVP is confirmed — you may receive a notification or confirmation message.  
 
 > ⚠️ Note: Some events have limited spots — RSVP early to secure your place to avoid been waitlisted!
 
 :::tip Waitlist
 
 If the selected role is full, you will be placed on a **waitlist** in the order you signed up.  
-If someone does not show, we will contact you to join the event based on your position on the list. 
-This ensures fairness for everyone.
-
-**Do NOT sync unless the host tells you to sync.**
+If someone does not show, we will contact you to join the event based on your position on the list. This ensures fairness for everyone. 
 
 :::
 
 ---
 **No Role Example:**
-
 ![No Role Example](./img/rsvp_signup.png) 
 
 **Team Role Example:**
-
 ![Team Role Example](./img/rsvp_teams.png) 
 
-**Team Role with leader Example:**
-
-(leader will just add everyone in a party, but is not required to talk in voice chat)
-
+**Team Role with leader Example (leader will just add everyone in a party, but is not required to voice chat)**
 ![Date example](./img/rsvp_teams2.png) 
 
 **Cooking Role Example:**
-
 ![Cooking Role Example](./img/rsvp_cooking.png) 
-
 ---
 
 
-## Step 3: Add the Host or one of the Organizer's
+## Step 3: Add the Host or Organizer
 
 1. Open your **Friends List** in-game.  
 2. Search for the **host’s username** and send a friend request.  
 3. Wait for them to accept your request.  
 
 > 💡 Tip: You need to be friends with the host to join most events.
-
-## Step 4: Joining the Event
-
-1. Make sure you are **available 30 minutes before the event starts**.  
-2. Open the **Discord server** and navigate to the channel corresponding to the event.  
-3. Read the instructions from the host on how everyone will be grouped.  
-   - It will either involve **syncing to the same map** or **visiting the host's home plot**.  
-
-> 💡 Tip: Detailed information about syncing can be found on the following pages.
 
 ---
