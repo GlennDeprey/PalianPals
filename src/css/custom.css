@@ -30,14 +30,14 @@
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #d0a7d2;
-  --ifm-color-primary-dark: #1e4e8c;
-  --ifm-color-primary-darker: #163b66;
-  --ifm-color-primary-darkest: #0f2740;
+  --ifm-color-primary: #d0a7d2;   /* base lavender */
+  --ifm-color-primary-dark: #bb90bd;     /* ~15% darker */
+  --ifm-color-primary-darker: #a378a6;   /* ~30% darker */
+  --ifm-color-primary-darkest: #8a648b;  /* ~45% darker */
 
-  --ifm-color-primary-light: #3f83c5;
-  --ifm-color-primary-lighter: #5a9bd6;
-  --ifm-color-primary-lightest: #7eb6e8;
+  --ifm-color-primary-light: #d8b5da;    /* ~10% lighter */
+  --ifm-color-primary-lighter: #e2c6e4;  /* ~20% lighter */
+  --ifm-color-primary-lightest: #f0e0f2; /* ~35% lighter */
 
   --ifm-background-color: #1a1d23; /* dark neutral base */
   --ifm-heading-color: #e2e8f0;    /* light gray-white */
