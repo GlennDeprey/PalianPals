@@ -19,13 +19,16 @@ Following these steps ensures you are prepared and can participate smoothly in s
 
 ---
 
-** Voice Chat**
+**Voice Chat**
+
 ![Voice Chat](./img/rsvp_mic.png) 
 
 **Requirement example:**
+
 ![Requirement Example](./img/rsvp_requirements.png) 
 
 **Date example**
+
 ![Date example](./img/rsvp_time.png) 
 
 ---
@@ -49,15 +52,19 @@ If someone does not show, we will contact you to join the event based on your po
 
 ---
 **No Role Example:**
+
 ![No Role Example](./img/rsvp_signup.png) 
 
 **Team Role Example:**
+
 ![Team Role Example](./img/rsvp_teams.png) 
 
 **Team Role with leader Example (leader will just add everyone in a party, but is not required to voice chat)**
+
 ![Date example](./img/rsvp_teams2.png) 
 
 **Cooking Role Example:**
+
 ![Cooking Role Example](./img/rsvp_cooking.png) 
 ---
 
