@@ -62,7 +62,7 @@ Do NOT sync unless the host tells you to sync.
 
 **Team Role with leader Example:**
 
-(leader will just add everyone in a party, but is not required to voice chat)
+(leader will just add everyone in a party, but is not required to talk in voice chat)
 
 ![Date example](./img/rsvp_teams2.png) 
 
