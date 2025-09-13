@@ -71,7 +71,8 @@ This ensures fairness for everyone.
 
 **Cooking Role Example:**
 
-![Cooking Role Example](./img/rsvp_cooking.png) 
+![Cooking Role example](./img/rsvp_cooking.png) 
+
 ---
 
 
