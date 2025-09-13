@@ -22,19 +22,19 @@ Before joining, make sure you have **all the items and tools required for the ev
 
 ---
 
-## Step 2: Join the Same Map
- 
-Get to the **map where the event will take place**.  
-
----
-
-## Step 3: Add the host in friend list
+## Step 2: Add the host in friend list
 
 1. Open your **Friends List** in-game.  
 2. Search for the **host’s username** and send a friend request.  
 3. Wait until the host accepts your friend request.  
 
 > 💡 Tip: You must be friends with the host to join their server directly.
+
+---
+
+## Step 3: Join the Same Map
+ 
+Get to the **map where the event will take place**.  
 
 ---
 
