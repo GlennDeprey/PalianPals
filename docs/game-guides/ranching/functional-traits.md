@@ -8,7 +8,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## AgeRate
+## Age Rate
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -30,7 +30,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## ExtraItem
+## Extra Item
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -41,7 +41,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## FocusDecay
+## Focus Decay
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -55,7 +55,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## FocusGainFood
+## Focus Gain Food
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -70,7 +70,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## FocusGainPetting
+## Focus Gain Petting
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -78,7 +78,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## FocusLimit
+## Focus Limit
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -91,7 +91,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessDecay
+## Happiness Decay
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -105,7 +105,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessDecayFocus
+## Happiness Decay Focus
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -113,7 +113,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessDecayPetting
+## Happiness Decay Petting
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -121,7 +121,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessDecaySocial
+## Happiness Decay Social
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -130,7 +130,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessGain
+## Happiness Gain
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -144,7 +144,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessGainBuddy
+## Happiness Gain Buddy
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -157,7 +157,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessGainFeeding
+## Happiness Gain Feeding
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -169,7 +169,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessGainOverfeed
+## Happiness Gain Overfeed
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -177,7 +177,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessGainTemporal
+## Happiness Gain Temporal
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -194,7 +194,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappinessHybrid
+## Happiness Hybrid
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -207,7 +207,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## HappyDecayAge
+## Happy Decay Age
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -246,7 +246,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## PettingDecayCooldown
+## Petting Decay Cooldown
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -274,7 +274,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## ProductionGain
+## Production Gain
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -298,7 +298,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## ProductionGainAge
+## Production Gain Age
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -315,7 +315,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## ProductionLimit
+## Production Limit
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -338,7 +338,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## SpeciesCount
+## Species Count
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
@@ -363,7 +363,7 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 ---
 
-## SponGen
+## Spontaneus Gen
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
