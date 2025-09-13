@@ -47,7 +47,7 @@ Get to the **map where the event will take place**.
 
 :::caution
 
-⚠️ Do not log out during syncing to prevent errors.
+Do not log out during syncing to prevent errors.
 
 :::
 ---
