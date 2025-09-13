@@ -17,13 +17,13 @@ Following these steps ensures you are **respectful to the host and organizers** 
 
 ---
 
-** Method 1 **
+**Method 1**
 
 ![UNRSVP Wheel Example](./img/unrsvp-wheel.png) 
 
 ![UNRSVP Button Example](./img/unrsvp.png) 
 
-** Method 2 **
+**Method 2**
 
 ![UNRSVP Button Example](./img/unrsvp2.png) 
 
