@@ -14,6 +14,14 @@ This section of the guide will walk you through:
 - 🐣 Breeding details and requirements  
 - 📊 Reference tables for animal growth and production 
 
+# Ranch Animals
+
+Here’s an overview of the current ranch animals:
+
+| Peki      | Trufflet       | Ormuu   | Bee          |
+|--------------|--------------|--------------|--------------|
+| ![Peki](./img/peki.png) | ![Trufflet](./img/trufflet.png) | ![Ormuu](./img/ormuu.png) | ![Bee](./img/bee.png) |
+
 # Ranching Levels & EXP
 
 This table shows the **experience points (EXP)** required to level up ranching.  
