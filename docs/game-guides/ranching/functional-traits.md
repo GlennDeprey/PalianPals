@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Functional Traits 
+# Functional Traits
 
 Below you’ll find all known **functional traits**, grouped by their **Trait Group**.
 
@@ -12,26 +12,16 @@ Below you’ll find all known **functional traits**, grouped by their **Trait Gr
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Immature I | Ages at a slightly slower rate. | Common | ExchangeValue: 1.1
-AgeGain: 0.95 |
-| Immature II | Ages at a moderately slower rate. | Common | ExchangeValue: 1.2
-AgeGain: 0.9 |
-| Immature III | Ages at a much slower rate. | Common | ExchangeValue: 1.3
-AgeGain: 0.85 |
-| Immature IV | Ages at a significantly slower rate. | Uncommon | ExchangeValue: 1.4
-AgeGain: 0.8 |
-| Immature V | Ages extremely slowly. | Rare | ExchangeValue: 1.5
-AgeGain: 0.75 |
-| Precocious I | Ages at a slightly faster rate. | Common | ExchangeValue: 1.1
-AgeGain: 1.5 |
-| Precocious II | Ages at a moderately faster rate. | Common | ExchangeValue: 1.2
-AgeGain: 2.0 |
-| Precocious III | Ages at a much faster rate. | Common | ExchangeValue: 1.3
-AgeGain: 2.5 |
-| Precocious IV | Ages at a very fast rate. | Uncommon | ExchangeValue: 1.4
-AgeGain: 3.0 |
-| Precocious V | Ages at an extremely fast rate. | Rare | ExchangeValue: 1.5
-AgeGain: 3.5 |
+| Immature I | Ages at a slightly slower rate. | Common | ExchangeValue: 1.1<br>AgeGain: 0.95 |
+| Immature II | Ages at a moderately slower rate. | Common | ExchangeValue: 1.2<br>AgeGain: 0.9 |
+| Immature III | Ages at a much slower rate. | Common | ExchangeValue: 1.3<br>AgeGain: 0.85 |
+| Immature IV | Ages at a significantly slower rate. | Uncommon | ExchangeValue: 1.4<br>AgeGain: 0.8 |
+| Immature V | Ages extremely slowly. | Rare | ExchangeValue: 1.5<br>AgeGain: 0.75 |
+| Precocious I | Ages at a slightly faster rate. | Common | ExchangeValue: 1.1<br>AgeGain: 1.5 |
+| Precocious II | Ages at a moderately faster rate. | Common | ExchangeValue: 1.2<br>AgeGain: 2.0 |
+| Precocious III | Ages at a much faster rate. | Common | ExchangeValue: 1.3<br>AgeGain: 2.5 |
+| Precocious IV | Ages at a very fast rate. | Uncommon | ExchangeValue: 1.4<br>AgeGain: 3.0 |
+| Precocious V | Ages at an extremely fast rate. | Rare | ExchangeValue: 1.5<br>AgeGain: 3.5 |
 | Youthful Energy I | Ages slightly slower through adulthood if there are animals younger than it in the barn. | Common | ExchangeValue: 1.1 |
 | Youthful Energy II | Ages moderately slower through adulthood if there are animals younger than it in the barn. | Common | ExchangeValue: 1.2 |
 | Youthful Energy III | Ages much slower through adulthood if there are animals younger than it in the barn. | Common | ExchangeValue: 1.3 |
@@ -55,20 +45,13 @@ AgeGain: 3.5 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Fast Metabolism I | Becomes hungry slightly faster. | Uncommon | ExchangeValue: 1.2
-FocusDecay: 1.1 |
-| Fast Metabolism II | Becomes hungry moderately faster. | Rare | ExchangeValue: 1.3
-FocusDecay: 1.2 |
-| Grazer I | Focus decays slightly slower. | Common | ExchangeValue: 1.1
-FocusDecay: 0.9 |
-| Grazer II | Focus decays somewhat slower. | Common | ExchangeValue: 1.2
-FocusDecay: 0.8 |
-| Grazer III | Focus decays moderately slower. | Common | ExchangeValue: 1.3
-FocusDecay: 0.7 |
-| Grazer IV | Focus decays significantly slower. | Uncommon | ExchangeValue: 1.4
-FocusDecay: 0.6 |
-| Grazer V | Focus decays very slowly. | Rare | ExchangeValue: 1.5
-FocusDecay: 0.5 |
+| Fast Metabolism I | Becomes hungry slightly faster. | Uncommon | ExchangeValue: 1.2<br>FocusDecay: 1.1 |
+| Fast Metabolism II | Becomes hungry moderately faster. | Rare | ExchangeValue: 1.3<br>FocusDecay: 1.2 |
+| Grazer I | Focus decays slightly slower. | Common | ExchangeValue: 1.1<br>FocusDecay: 0.9 |
+| Grazer II | Focus decays somewhat slower. | Common | ExchangeValue: 1.2<br>FocusDecay: 0.8 |
+| Grazer III | Focus decays moderately slower. | Common | ExchangeValue: 1.3<br>FocusDecay: 0.7 |
+| Grazer IV | Focus decays significantly slower. | Uncommon | ExchangeValue: 1.4<br>FocusDecay: 0.6 |
+| Grazer V | Focus decays very slowly. | Rare | ExchangeValue: 1.5<br>FocusDecay: 0.5 |
 
 ---
 
@@ -99,18 +82,12 @@ FocusDecay: 0.5 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Healthy Eater I | Can eat slightly more food. | Common | ExchangeValue: 1.1
-FocusLimit: 1.1 |
-| Healthy Eater II | Can eat moderately more food. | Common | ExchangeValue: 1.2
-FocusLimit: 1.2 |
-| Healthy Eater III | Can eat much more food. | Common | ExchangeValue: 1.3
-FocusLimit: 1.3 |
-| Healthy Eater IV | Can eat significantly more food. | Uncommon | ExchangeValue: 1.4
-FocusLimit: 1.4 |
-| Healthy Eater V | Can eat a lot more food. | Rare | ExchangeValue: 1.5
-FocusLimit: 1.5 |
-| Small Stomach | Can eat somewhat less food. | Abundant | ExchangeValue: 1.0
-FocusLimit: 0.8 |
+| Healthy Eater I | Can eat slightly more food. | Common | ExchangeValue: 1.1<br>FocusLimit: 1.1 |
+| Healthy Eater II | Can eat moderately more food. | Common | ExchangeValue: 1.2<br>FocusLimit: 1.2 |
+| Healthy Eater III | Can eat much more food. | Common | ExchangeValue: 1.3<br>FocusLimit: 1.3 |
+| Healthy Eater IV | Can eat significantly more food. | Uncommon | ExchangeValue: 1.4<br>FocusLimit: 1.4 |
+| Healthy Eater V | Can eat a lot more food. | Rare | ExchangeValue: 1.5<br>FocusLimit: 1.5 |
+| Small Stomach | Can eat somewhat less food. | Abundant | ExchangeValue: 1.0<br>FocusLimit: 0.8 |
 
 ---
 
@@ -118,20 +95,13 @@ FocusLimit: 0.8 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Content I | Happiness decays slightly slower. | Common | ExchangeValue: 1.1
-HappinessDecay: 0.95 |
-| Content II | Happiness decays somewhat slower. | Common | ExchangeValue: 1.2
-HappinessDecay: 0.9 |
-| Content III | Happiness decays moderately slower. | Common | ExchangeValue: 1.3
-HappinessDecay: 0.85 |
-| Content IV | Happiness decays significantly slower. | Uncommon | ExchangeValue: 1.4
-HappinessDecay: 0.8 |
-| Content V | Happiness decays much more slowly. | Rare | ExchangeValue: 1.5
-HappinessDecay: 0.75 |
-| Content VI | Happiness decays extremely slowly. | Legendary | ExchangeValue: 2.0
-HappinessDecay: 0.6 |
-| Malcontent | Happiness decays somewhat faster. | Abundant | ExchangeValue: 1.0
-HappinessDecay: 1.1 |
+| Content I | Happiness decays slightly slower. | Common | ExchangeValue: 1.1<br>HappinessDecay: 0.95 |
+| Content II | Happiness decays somewhat slower. | Common | ExchangeValue: 1.2<br>HappinessDecay: 0.9 |
+| Content III | Happiness decays moderately slower. | Common | ExchangeValue: 1.3<br>HappinessDecay: 0.85 |
+| Content IV | Happiness decays significantly slower. | Uncommon | ExchangeValue: 1.4<br>HappinessDecay: 0.8 |
+| Content V | Happiness decays much more slowly. | Rare | ExchangeValue: 1.5<br>HappinessDecay: 0.75 |
+| Content VI | Happiness decays extremely slowly. | Legendary | ExchangeValue: 2.0<br>HappinessDecay: 0.6 |
+| Malcontent | Happiness decays somewhat faster. | Abundant | ExchangeValue: 1.0<br>HappinessDecay: 1.1 |
 
 ---
 
@@ -164,20 +134,13 @@ HappinessDecay: 1.1 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Beepressed | Gains slightly less happiness. | Common | ExchangeValue: 1.0
-HappinessGain: 0.9 |
-| Cheerful I | Gains slightly more happiness from care. | Common | ExchangeValue: 1.1
-HappinessGain: 1.05 |
-| Cheerful II | Gains somewhat more happiness from care. | Common | ExchangeValue: 1.2
-HappinessGain: 1.1 |
-| Cheerful III | Gains moderately more happiness from care. | Common | ExchangeValue: 1.3
-HappinessGain: 1.15 |
-| Cheerful IV | Gains significant happiness from care. | Uncommon | ExchangeValue: 1.4
-HappinessGain: 1.2 |
-| Cheerful V | Gains a great deal more happiness from care. | Rare | ExchangeValue: 1.5
-HappinessGain: 1.25 |
-| Grumpy | Gains slightly less happiness. | Abundant | ExchangeValue: 1.0
-HappinessGain: 0.9 |
+| Beepressed | Gains slightly less happiness. | Common | ExchangeValue: 1.0<br>HappinessGain: 0.9 |
+| Cheerful I | Gains slightly more happiness from care. | Common | ExchangeValue: 1.1<br>HappinessGain: 1.05 |
+| Cheerful II | Gains somewhat more happiness from care. | Common | ExchangeValue: 1.2<br>HappinessGain: 1.1 |
+| Cheerful III | Gains moderately more happiness from care. | Common | ExchangeValue: 1.3<br>HappinessGain: 1.15 |
+| Cheerful IV | Gains significant happiness from care. | Uncommon | ExchangeValue: 1.4<br>HappinessGain: 1.2 |
+| Cheerful V | Gains a great deal more happiness from care. | Rare | ExchangeValue: 1.5<br>HappinessGain: 1.25 |
+| Grumpy | Gains slightly less happiness. | Abundant | ExchangeValue: 1.0<br>HappinessGain: 0.9 |
 
 ---
 
@@ -235,24 +198,12 @@ HappinessGain: 0.9 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Well-Loved I | Gains a bit more happiness from care, which decays slower. | Uncommon | ExchangeValue: 1.15
-HappinessDecay: 0.975
-HappinessGain: 1.025 |
-| Well-Loved II | Gains slightly more happiness from care, which decays slightly slower. | Uncommon | ExchangeValue: 1.3
-HappinessDecay: 0.95
-HappinessGain: 1.05 |
-| Well-Loved III | Gains somewhat more happiness from care, which decays somewhat slower. | Rare | ExchangeValue: 1.45
-HappinessDecay: 0.925
-HappinessGain: 1.075 |
-| Well-Loved IV | Gains moderately more happiness from care, which decays moderately slowly. | Epic | ExchangeValue: 1.6
-HappinessDecay: 0.9
-HappinessGain: 1.1 |
-| Well-Loved V | Gains significantly more happiness from care, which decays significantly slower. | Legendary | ExchangeValue: 1.75
-HappinessDecay: 0.875
-HappinessGain: 1.125 |
-| Well-Loved VI | Gains a great deal more happiness from care, which decays much more slowly. | Legendary | ExchangeValue: 2.0
-HappinessDecay: 0.8
-HappinessGain: 1.2 |
+| Well-Loved I | Gains a bit more happiness from care, which decays slower. | Uncommon | ExchangeValue: 1.15<br>HappinessDecay: 0.975<br>HappinessGain: 1.025 |
+| Well-Loved II | Gains slightly more happiness from care, which decays slightly slower. | Uncommon | ExchangeValue: 1.3<br>HappinessDecay: 0.95<br>HappinessGain: 1.05 |
+| Well-Loved III | Gains somewhat more happiness from care, which decays somewhat slower. | Rare | ExchangeValue: 1.45<br>HappinessDecay: 0.925<br>HappinessGain: 1.075 |
+| Well-Loved IV | Gains moderately more happiness from care, which decays moderately slowly. | Epic | ExchangeValue: 1.6<br>HappinessDecay: 0.9<br>HappinessGain: 1.1 |
+| Well-Loved V | Gains significantly more happiness from care, which decays significantly slower. | Legendary | ExchangeValue: 1.75<br>HappinessDecay: 0.875<br>HappinessGain: 1.125 |
+| Well-Loved VI | Gains a great deal more happiness from care, which decays much more slowly. | Legendary | ExchangeValue: 2.0<br>HappinessDecay: 0.8<br>HappinessGain: 1.2 |
 
 ---
 
@@ -272,25 +223,13 @@ HappinessGain: 1.2 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Clingy | Enjoys pets for longer, but is slightly hungrier and less productive. | Legendary | ExchangeValue: 1.8
-FocusDecay: 1.1
-HappinessDecay: 0.5
-HappinessGain: 1.1
-ProductionGain: 0.98 |
-| Good Memory | Maintains the benefits of being pet for longer, and their focus will depelete moderately more slowly. | Legendary | ExchangeValue: 1.8
-FocusDecay: 0.75 |
-| Happy Medium | Gains moderately more happiness, which depletes much more slowly. | Legendary | ExchangeValue: 1.8
-HappinessGain: 1.1
-HappinessDecay: 0.8 |
-| Hardworking | Produces items at a much faster rate, but becomes hungrier because of it. | Legendary | ExchangeValue: 1.8
-FocusDecay: 1.1
-ProductionGain: 1.05 |
-| Mild | Happiness will deplete slightly faster, but produces items at a moderately increased rate while at mid-range happiness. | Legendary | ExchangeValue: 1.8
-HappinessDecay: 0.9 |
-| Motivated | Gains moderately more happiness from petting, and produces items at a greatly faster rate. | Legendary | ExchangeValue: 1.8
-ProductionGain: 1.1 |
-| Snacky | Focus will deplete slightly more slowly, and gains moderately more happiness from feeding. | Legendary | ExchangeValue: 1.8
-FocusDecay: 1.05 |
+| Clingy | Enjoys pets for longer, but is slightly hungrier and less productive. | Legendary | ExchangeValue: 1.8<br>FocusDecay: 1.1<br>HappinessDecay: 0.5<br>HappinessGain: 1.1<br>ProductionGain: 0.98 |
+| Good Memory | Maintains the benefits of being pet for longer, and their focus will depelete moderately more slowly. | Legendary | ExchangeValue: 1.8<br>FocusDecay: 0.75 |
+| Happy Medium | Gains moderately more happiness, which depletes much more slowly. | Legendary | ExchangeValue: 1.8<br>HappinessGain: 1.1<br>HappinessDecay: 0.8 |
+| Hardworking | Produces items at a much faster rate, but becomes hungrier because of it. | Legendary | ExchangeValue: 1.8<br>FocusDecay: 1.1<br>ProductionGain: 1.05 |
+| Mild | Happiness will deplete slightly faster, but produces items at a moderately increased rate while at mid-range happiness. | Legendary | ExchangeValue: 1.8<br>HappinessDecay: 0.9 |
+| Motivated | Gains moderately more happiness from petting, and produces items at a greatly faster rate. | Legendary | ExchangeValue: 1.8<br>ProductionGain: 1.1 |
+| Snacky | Focus will deplete slightly more slowly, and gains moderately more happiness from feeding. | Legendary | ExchangeValue: 1.8<br>FocusDecay: 1.05 |
 
 ---
 
@@ -298,18 +237,12 @@ FocusDecay: 1.05 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Proud I | Traits are slightly more likely to be passed down. | Common | ExchangeValue: 1.1
-InheritanceModifier: 1.5 |
-| Proud II | Traits are somewhat more likely to be passed down. | Common | ExchangeValue: 1.2
-InheritanceModifier: 2.0 |
-| Proud III | Traits are moderately more likely to be passed down. | Rare | ExchangeValue: 1.3
-InheritanceModifier: 2.5 |
-| Proud IV | Traits are much more likely to be passed down. | Rare | ExchangeValue: 1.4
-InheritanceModifier: 3.0 |
-| Quiet I | Traits are less likely to be passed down. | Common | ExchangeValue: 1.1
-InheritanceModifier: 0.75 |
-| Quiet II | Traits are much less likely to be passed down. | Uncommon | ExchangeValue: 1.2
-InheritanceModifier: 0.5 |
+| Proud I | Traits are slightly more likely to be passed down. | Common | ExchangeValue: 1.1<br>InheritanceModifier: 1.5 |
+| Proud II | Traits are somewhat more likely to be passed down. | Common | ExchangeValue: 1.2<br>InheritanceModifier: 2.0 |
+| Proud III | Traits are moderately more likely to be passed down. | Rare | ExchangeValue: 1.3<br>InheritanceModifier: 2.5 |
+| Proud IV | Traits are much more likely to be passed down. | Rare | ExchangeValue: 1.4<br>InheritanceModifier: 3.0 |
+| Quiet I | Traits are less likely to be passed down. | Common | ExchangeValue: 1.1<br>InheritanceModifier: 0.75 |
+| Quiet II | Traits are much less likely to be passed down. | Uncommon | ExchangeValue: 1.2<br>InheritanceModifier: 0.5 |
 
 ---
 
@@ -350,26 +283,18 @@ InheritanceModifier: 0.5 |
 | Gourmand III | Experiences a massive but fleeting burst of productivity after eating food of epic or higher quality. | Rare | ExchangeValue: 1.3 |
 | Gourmand IV | Experiences an incredible but fleeting burst of productivity after eating food of epic or higher quality. | Epic | ExchangeValue: 1.4 |
 | Gourmand V | Experiences an extreme but fleeting burst of productivity after eating food of epic or higher quality. | Legendary | ExchangeValue: 1.5 |
-| Healthy | Produces items significantly faster, and their happiness depletes much more slowly. | Legendary | ExchangeValue: 1.8
-ProductionGain: 1.1
-HappinessDecay: 0.8 |
-| Lazy | Produces items slightly slower. | Abundant | ExchangeValue: 1.0
-ProductionGain: 0.95 |
+| Healthy | Produces items significantly faster, and their happiness depletes much more slowly. | Legendary | ExchangeValue: 1.8<br>ProductionGain: 1.1<br>HappinessDecay: 0.8 |
+| Lazy | Produces items slightly slower. | Abundant | ExchangeValue: 1.0<br>ProductionGain: 0.95 |
 | Pampered I | Produces items slightly faster while at maximum happiness. | Common | ExchangeValue: 1.1 |
 | Pampered II | Produces items moderately faster while at maximum happiness. | Common | ExchangeValue: 1.2 |
 | Pampered III | Produces items much faster while at maximum happiness. | Common | ExchangeValue: 1.3 |
 | Pampered IV | Produces items significantly faster while at maximum happiness. | Uncommon | ExchangeValue: 1.4 |
 | Pampered V | Produces items a great deal faster while at maximum happiness. | Rare | ExchangeValue: 1.5 |
-| Quick I | Produces items slightly faster. | Common | ExchangeValue: 1.1
-ProductionGain: 1.02 |
-| Quick II | Produces items somewhat faster. | Uncommon | ExchangeValue: 1.2
-ProductionGain: 1.04 |
-| Quick III | Produces items moderately faster. | Rare | ExchangeValue: 1.3
-ProductionGain: 1.06 |
-| Quick IV | Produces items very quickly. | Epic | ExchangeValue: 1.4
-ProductionGain: 1.08 |
-| Quick V | Produces items extremely quickly. | Legendary | ExchangeValue: 1.5
-ProductionGain: 1.1 |
+| Quick I | Produces items slightly faster. | Common | ExchangeValue: 1.1<br>ProductionGain: 1.02 |
+| Quick II | Produces items somewhat faster. | Uncommon | ExchangeValue: 1.2<br>ProductionGain: 1.04 |
+| Quick III | Produces items moderately faster. | Rare | ExchangeValue: 1.3<br>ProductionGain: 1.06 |
+| Quick IV | Produces items very quickly. | Epic | ExchangeValue: 1.4<br>ProductionGain: 1.08 |
+| Quick V | Produces items extremely quickly. | Legendary | ExchangeValue: 1.5<br>ProductionGain: 1.1 |
 
 ---
 
@@ -394,12 +319,9 @@ ProductionGain: 1.1 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Productive I | Produces an extra item. | Rare | ExchangeValue: 1.1
-ProductionLimit: 1.0 |
-| Productive II | Produces two extra items. | Epic | ExchangeValue: 1.2
-ProductionLimit: 2.0 |
-| The Fridge | This animal can hold a ridiculous number of items. This trait is exceptionally rare and cannot be inherited. | Legendary | ExchangeValue: 1.8
-ProductionLimit: 99.0 |
+| Productive I | Produces an extra item. | Rare | ExchangeValue: 1.1<br>ProductionLimit: 1.0 |
+| Productive II | Produces two extra items. | Epic | ExchangeValue: 1.2<br>ProductionLimit: 2.0 |
+| The Fridge | This animal can hold a ridiculous number of items. This trait is exceptionally rare and cannot be inherited. | Legendary | ExchangeValue: 1.8<br>ProductionLimit: 99.0 |
 
 ---
 
@@ -409,11 +331,9 @@ ProductionLimit: 99.0 |
 |-------|-------------|--------|-----------|
 | Ages Gracefully | While a young adult or older, ages more slowly depending on how many cosmetic traits they have. | Rare | ExchangeValue: 1.3 |
 | Deep Pockets | Can hold more items depending on how many cosmetic traits they have. | Rare | ExchangeValue: 1.3 |
-| Diva | Happiness depletes more slowly depending on how many cosmetic traits they have, and their focus depletion is also slightly reduced. | Rare | ExchangeValue: 1.3
-FocusDecay: 0.95 |
+| Diva | Happiness depletes more slowly depending on how many cosmetic traits they have, and their focus depletion is also slightly reduced. | Rare | ExchangeValue: 1.3<br>FocusDecay: 0.95 |
 | Fashionista | Gains more happiness depending on how many cosmetic traits they have. | Rare | ExchangeValue: 1.3 |
-| High Maintenance | Gains more happiness from feeding depending on how many cosmetic traits they have, and their focus depletes moderately faster. | Rare | ExchangeValue: 1.3
-FocusDecay: 1.1 |
+| High Maintenance | Gains more happiness from feeding depending on how many cosmetic traits they have, and their focus depletes moderately faster. | Rare | ExchangeValue: 1.3<br>FocusDecay: 1.1 |
 | Superstar | Gains more happiness from petting depending on how many cosmetic traits they have. | Rare | ExchangeValue: 1.3 |
 
 ---
@@ -447,15 +367,11 @@ FocusDecay: 1.1 |
 
 | Trait | Description | Rarity | Modifiers |
 |-------|-------------|--------|-----------|
-| Quirky I | A little more likely to randomly gain a trait if possible. | Common | ExchangeValue: 1.1
-SpontaneousModifier: 1.05 |
-| Quirky II | Slightly more likely to randomly gain a trait if possible. | Common | ExchangeValue: 1.2
-SpontaneousModifier: 1.1 |
-| Quirky III | Somewhat more likely to randomly gain a trait if possible. | Common | ExchangeValue: 1.3
-SpontaneousModifier: 1.15 |
-| Quirky IV | Moderately more likely to randomly gain a trait of possible. | Uncommon | ExchangeValue: 1.4
-SpontaneousModifier: 1.2 |
-| Quirky V | Much more likely to randomly gain a trait if possible. | Rare | ExchangeValue: 1.5
-SpontaneousModifier: 1.25 |
+| Quirky I | A little more likely to randomly gain a trait if possible. | Common | ExchangeValue: 1.1<br>SpontaneousModifier: 1.05 |
+| Quirky II | Slightly more likely to randomly gain a trait if possible. | Common | ExchangeValue: 1.2<br>SpontaneousModifier: 1.1 |
+| Quirky III | Somewhat more likely to randomly gain a trait if possible. | Common | ExchangeValue: 1.3<br>SpontaneousModifier: 1.15 |
+| Quirky IV | Moderately more likely to randomly gain a trait of possible. | Uncommon | ExchangeValue: 1.4<br>SpontaneousModifier: 1.2 |
+| Quirky V | Much more likely to randomly gain a trait if possible. | Rare | ExchangeValue: 1.5<br>SpontaneousModifier: 1.25 |
+
 
 
