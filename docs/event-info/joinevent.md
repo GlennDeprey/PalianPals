@@ -47,6 +47,7 @@ We make use of **Sesh** for event sign-ups:
 
 If the selected role is full, you will be placed on a **waitlist** in the order you signed up.  
 If someone does not show, we will contact you to join the event based on your position on the list. This ensures fairness for everyone. 
+Do NOT sync unless the host tells you to sync.
 
 :::
 
