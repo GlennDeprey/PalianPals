@@ -6,7 +6,12 @@ sidebar_position: 4
 
 Below are all known **animal treats** with images and effects, ordered by **rarity**.
 
+:::tip Waitlist
+
 Treats can be obtained by a treat bag with the noted **Rarity**
+
+:::
+
 
 | Image | Treat Name | Treat Type | Rarity | Purchasable | Effect |
 |-------|------------|------------|--------|-------------|--------|
