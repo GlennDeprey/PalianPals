@@ -5,6 +5,7 @@ sidebar_position: 4
 # Animal Treats
 
 Below are all known **animal treats** with images and effects, ordered by **rarity**.
+
 Treats can be obtained by a treat bag with the noted **Rarity**
 
 | Image | Treat Name | Treat Type | Rarity | Purchasable | Effect |
