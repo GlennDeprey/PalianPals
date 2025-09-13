@@ -37,4 +37,3 @@ Palian Pals is a **community within Palia** where players come together to:
 
 Whether you’re new to Kilima Village or a seasoned adventurer, Palian Pals is here to make your journey more **fun, social, and welcoming**.  
 
----
