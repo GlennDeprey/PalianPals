@@ -59,7 +59,9 @@ If someone does not show, we will contact you to join the event based on your po
 
 ![Team Role Example](./img/rsvp_teams.png) 
 
-**Team Role with leader Example (leader will just add everyone in a party, but is not required to voice chat)**
+**Team Role with leader Example:**
+
+(leader will just add everyone in a party, but is not required to voice chat)
 
 ![Date example](./img/rsvp_teams2.png) 
 
