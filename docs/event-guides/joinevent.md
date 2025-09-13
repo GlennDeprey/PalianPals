@@ -20,7 +20,7 @@ Following these steps ensures you are prepared and can participate smoothly in s
 
 ---
 
-** Voice Chat**
+**Voice Chat**
 
 ![Voice Chat](./img/rsvp_mic.png) 
 
