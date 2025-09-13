@@ -81,4 +81,13 @@ Do NOT sync unless the host tells you to sync.
 
 > 💡 Tip: You need to be friends with the host to join most events.
 
+## Step 4: Joining the Event
+
+1. Make sure you are **available 30 minutes before the event starts**.  
+2. Open the **Discord server** and navigate to the channel corresponding to the event.  
+3. Read the instructions from the host on how everyone will be grouped.  
+   - It will either involve **syncing to the same map** or **visiting the host's home plot**.  
+
+> 💡 Tip: Detailed information about syncing can be found on the following pages.
+
 ---
