@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Home Plot Syncing
 
-This tutorial will guide you through **syncing to the host home plot** in Palia.  
+This tutorial will guide you through **to the home plot of the host** in Palia.  
 Syncing ensures your on the same server and allows you to **join shared events, co-op activities**,
 
 ---
@@ -28,7 +28,7 @@ Before joining, make sure you have **all the items and tools required for the ev
 2. Search for the **host’s username** and send a friend request.  
 3. Wait until the host accepts your friend request.  
 
-> 💡 Tip: You must be friends with the host to join their home plot unless they put their plot open.
+> 💡 Tip: You must be friends with the host to join their home plot unless they put their plot on public.
 
 ---
 
