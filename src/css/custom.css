@@ -65,6 +65,10 @@
   background-color: var(--ifm-color-primary-darkest);
   color: #f4ece3;
 }
+[data-theme='dark'] .footer {
+  background-color: #14181b;
+  color: #f4ece3;
+}
 .footer a {
   color: var(--palia-accent);
 }
