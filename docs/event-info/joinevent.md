@@ -71,7 +71,7 @@ If someone does not show, we will contact you to join the event based on your po
 ---
 
 
-## Step 3: Add the Host or Organizer's
+## Step 3: Add the Host or one of the Organizer's
 
 1. Open your **Friends List** in-game.  
 2. Search for the **host’s username** and send a friend request.  
