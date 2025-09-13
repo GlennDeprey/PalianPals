@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Sync to host
+# Syncing
 
 This tutorial will guide you through **syncing to the host** in Palia.  
 Syncing ensures your on the same server and allows you to **join shared events, co-op activities,
