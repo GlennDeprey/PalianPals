@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Join a event
+# Join an event
 
 This guide will show you how to **join a community event** in Palia.  
 Following these steps ensures you are prepared and can participate smoothly in shared activities with other players.
@@ -21,12 +21,15 @@ Following these steps ensures you are prepared and can participate smoothly in s
 ---
 
 ** Voice Chat**
+
 ![Voice Chat](./img/rsvp_mic.png) 
 
 **Requirement example:**
+
 ![Requirement Example](./img/rsvp_requirements.png) 
 
 **Date example**
+
 ![Date example](./img/rsvp_time.png) 
 
 ---
@@ -44,21 +47,30 @@ We make use of **Sesh** for event sign-ups:
 :::tip Waitlist
 
 If the selected role is full, you will be placed on a **waitlist** in the order you signed up.  
-If someone does not show, we will contact you to join the event based on your position on the list. This ensures fairness for everyone. 
+If someone does not show, we will contact you to join the event based on your position on the list. 
+This ensures fairness for everyone. 
+
+**Do NOT sync unless the host tells you to sync.** 
 
 :::
 
 ---
 **No Role Example:**
+
 ![No Role Example](./img/rsvp_signup.png) 
 
 **Team Role Example:**
+
 ![Team Role Example](./img/rsvp_teams.png) 
 
-**Team Role with leader Example (leader will just add everyone in a party, but is not required to voice chat)**
+**Team Role with leader Example**
+
+(leader will just add everyone in a party, but is not required to voice chat)
+
 ![Date example](./img/rsvp_teams2.png) 
 
 **Cooking Role Example:**
+
 ![Cooking Role Example](./img/rsvp_cooking.png) 
 ---
 
