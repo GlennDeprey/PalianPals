@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Join our Palian community, discover event guides, connect with fellow players, and explore community-created guides to help you on your adventures.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
