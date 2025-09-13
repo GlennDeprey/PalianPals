@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Join a event
+# Join an event
 
 This guide will show you how to **join a community event** in Palia.  
 Following these steps ensures you are prepared and can participate smoothly in shared activities with other players.
@@ -11,6 +11,7 @@ Following these steps ensures you are prepared and can participate smoothly in s
 
 ## Step 1: Check Event Details
 
+- Open the **Discord server** and navigate to the channel corresponding to the day of the event.  
 - Look at the **event announcement** for date, time, and requirements.  
 - Make sure you have **all items, tools, and consumables** needed for the event.  
 - Confirm the **host or organizer’s username**.
@@ -37,9 +38,8 @@ Following these steps ensures you are prepared and can participate smoothly in s
 
 We make use of **Sesh** for event sign-ups:  
 
-1. Open the **Discord server** and navigate to the channel corresponding to the day of the event.   
-2. Click **ONE of the roles** to sign up for the event (this can be a team or a ingredient in case of cooking events).  
-3. Make sure your RSVP is confirmed — you may receive a notification or confirmation message.  
+1. Click **ONE of the roles** to sign up for the event (this can be a team or a ingredient in case of cooking events).  
+2. Make sure your RSVP is confirmed — you may receive a notification or confirmation message.  
 
 > ⚠️ Note: Some events have limited spots — RSVP early to secure your place to avoid been waitlisted!
 
