@@ -69,6 +69,7 @@ Do NOT sync unless the host tells you to sync.
 **Cooking Role Example:**
 
 ![Cooking Role Example](./img/rsvp_cooking.png) 
+
 ---
 
 
