@@ -14,7 +14,7 @@ You can click **either of the join buttons** below to start your request:
 ![Join Button Option 1](./img/join.png)  
 ![Join Button Option 2](./img/join2.png)  
 
-*Click any "Join" button on our Discord server invite page.*
+*Click any "Join" button to procceed to next step*
 
 ---
 
