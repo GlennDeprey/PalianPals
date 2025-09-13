@@ -39,8 +39,11 @@ Before joining, make sure you have **all the items and tools required for the ev
 2. Select **Join Server**.  
 3. Wait for the sync to complete before taking any in-game actions.  
 
-> ⚠️ Note: Do not log out during syncing to prevent errors.
+:::caution
 
+Do not log out during syncing to prevent errors.
+
+:::
 ---
 
 ![Host Menu](./img/host_menu.png)  
