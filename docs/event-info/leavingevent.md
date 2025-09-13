@@ -12,7 +12,8 @@ Following these steps ensures you are **respectful to the host and organizers** 
 ## Step 1: Cancel your RSVP (Unsign for an Event)
 
 - Open the **Discord server** and navigate to the channel corresponding to the day of the event.
-- If you RSVP’d via **Sesh**, remove your RSVP to free up your spot for others. 
+- If you RSVP’d via **Sesh**, remove your RSVP to free up your spot for others.
+
 (This can be done in two way, more information in the images below)
 
 ---
