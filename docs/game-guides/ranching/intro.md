@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro in Ranching
+## Intro in Ranching
 
 Welcome to the **Ranching Guide** for *Palia*! 🐄🐑🐇  
 
@@ -14,7 +14,7 @@ This section of the guide will walk you through:
 - 🐣 Breeding details and requirements  
 - 📊 Reference tables for animal growth and production 
 
-# Ranch Animals
+## Ranch Animals
 
 Here’s an overview of the current ranch animals:
 
@@ -22,7 +22,7 @@ Here’s an overview of the current ranch animals:
 |--------------|--------------|--------------|--------------|
 | ![Peki](./img/peki.png) | ![Trufflet](./img/trufflet.png) | ![Ormuu](./img/ormuu.png) | ![Bee](./img/bee.png) |
 
-# Ranching Levels & EXP
+## Ranching Levels & EXP
 
 This table shows the **experience points (EXP)** required to level up ranching.  
 
