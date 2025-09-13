@@ -45,8 +45,11 @@ Get to the **map where the event will take place**.
 3. Select **Join Server**.  
 4. Wait for the sync to complete before taking any in-game actions.  
 
-> ⚠️ Note: Do not log out during syncing to prevent errors.
+:::caution
 
+⚠️ Do not log out during syncing to prevent errors.
+
+:::
 ---
 
 ![Host Menu](./img/host_menu.png)  
