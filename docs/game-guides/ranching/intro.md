@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Ranching
+# Intro in Ranching
 
 Welcome to the **Ranching Guide** for *Palia*! 🐄🐑🐇  
 
