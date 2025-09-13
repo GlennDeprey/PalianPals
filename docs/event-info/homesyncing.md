@@ -34,10 +34,10 @@ Before joining, make sure you have **all the items and tools required for the ev
 
 ## Step 2b: Sync server with host (Optional)
 
-1. Sometimes the host will ask you to sync upfront, in order to avoid a full server.
-2. Open your **Friends List**, find the host, and click the **three dots** next to their name.  
-3. Select **Join Server**.  
-4. Wait for the sync to complete before taking any in-game actions.  
+> 💡 Tip: Sometimes the host will ask you to sync upfront, in order to avoid a full server.
+1. Open your **Friends List**, find the host, and click the **three dots** next to their name.  
+2. Select **Join Server**.  
+3. Wait for the sync to complete before taking any in-game actions.  
 
 > ⚠️ Note: Do not log out during syncing to prevent errors.
 
