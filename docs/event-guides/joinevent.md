@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Join an event
 
-This guide will show you how to **join a community event** in Palia.  
+This guide will show you how to **join a community event** in Palian Pals.  
 Following these steps ensures you are prepared and can participate smoothly in shared activities with other players.
 
 ---
