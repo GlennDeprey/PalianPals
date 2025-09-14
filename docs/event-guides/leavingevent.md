@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Leave an event
 
-This guide will show you how to **leave a community event** in Palia.  
+This guide will show you how to **leave a community event** in Palian Pals.  
 Following these steps ensures you are **respectful to the host and organizers** and helps the event run smoothly.
 
 ---
