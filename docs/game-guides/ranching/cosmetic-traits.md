@@ -5,6 +5,7 @@ sidebar_position: 3
 # Cosmetic Traits
 
 Below are all known **cosmetic traits**, grouped by **Animal** and **Trait Grouping**.
+
 Animals can have a combination of a **Color, Pattern and Shader**
 
 Every cosmetic other then default adds a 1.4x donation value multiplier.
