@@ -54,7 +54,7 @@ const config = {
           editUrl:
             `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
-        blog: {
+        /**blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -68,7 +68,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-        },
+        },**/
         theme: {
           customCss: './src/css/custom.css',
         },
