@@ -35,11 +35,11 @@ This method is used when an animal already has unwanted traits, and you want to 
    
    - This will shuffle traits within that group until the **desired trait** appears.
 
-   :::caution
+:::caution
 
    Sometimes, this might swap **Trait Group** as some traits have a **shared group** and so swaps to another group. This is where u have to restart again.
 
-   :::
+:::
 
 ---
 
