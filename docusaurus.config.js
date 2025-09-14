@@ -94,7 +94,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /**{to: '/blog', label: 'Blog', position: 'left'},**/
           {
             href: `https://discordapp.com/invite/PalianPals`,
             label: 'Discord',
