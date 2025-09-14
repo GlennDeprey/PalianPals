@@ -50,3 +50,39 @@ This method is used when an animal already has unwanted traits, and you want to 
 
 ---
 
+## 🧬 Technique 2: Triple Breeding Method
+This method uses **three animals of the same species** to increase your chances of producing an offspring with the **desired trait combination**.  
+
+### Steps:
+1. **Prepare Three Animals**  
+   - Obtain **3 animals of the same species**.  
+   - Ideally, each should already have useful or compatible traits (following **Technique 1: Trait Reset & Targeting**, you could end up with 3 different animals with **1 prefered trait**).  
+
+2. **Breed Strategically**  
+   - Breed the 1st and 2nd animals → keep the baby if it shows the desired trait(s).  
+   - If not, try again with a **Go_Next_Cookie**.
+
+   ![Trait Treat](./img/Go_Next_Cookie.png)
+   
+   - Repeat as necessary until the offspring has **2 target trait combination**.
+
+3. **Final Combination**  
+   - Ensure that you have the offspring with the **targeted trait combination**.  
+   - Breed the **Offspring animal** with 3th animal.  
+
+---
+
+## 🎯 Why Use This Method?
+- Gives you a **larger trait pool** to work with instead of relying on just 2 parents.  
+- Allows you to **cross-check offspring** between different pairs.  
+- More efficient for stacking **multiple traits** into a single animal over generations.  
+
+---
+
+## ⚠️ Tips & Notes
+- This technique is slower than simple breeding but **far more reliable** for rare traits.  
+- Always keep backups of your “founder animals” so you don’t lose progress.  
+- Works best when you already know which **Trait Group** you’re targeting.  
+
+---
+
