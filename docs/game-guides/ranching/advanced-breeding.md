@@ -5,6 +5,7 @@ sidebar_position: 7
 # Advanced Breeding
 
 Below you will find all information gathered within the **community and external sources combined**.
+
 Advanced Breeding focuses on techniques to **target specific traits or trait combinations** for your animals.
 
 ---
