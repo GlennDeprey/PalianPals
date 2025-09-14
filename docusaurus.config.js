@@ -96,7 +96,7 @@ const config = {
           },
           /**{to: '/blog', label: 'Blog', position: 'left'},**/
           {
-            href: `https://discordapp.com/invite/PalianPals`,
+            href: `https://discordapp.com/invite//kGzsjMEgxA`,
             label: 'Discord',
             position: 'right',
           },
