@@ -107,21 +107,6 @@ When combined through breeding, these traits can **mutate into a completely new 
 
 ---
 
-### 🔄 How It Works
-1. **Assign Parent Traits**  
-   - Parent A must have a trait from **Ingredient 1**.  
-   - Parent B must have a trait from **Ingredient 2**.  
-
-2. **Breed the Parents**  
-   - During breeding, the game checks for possible **mutation recipes**.  
-   - If the Ingredient 1 + Ingredient 2 combination exists, the offspring may inherit the **mutation result** instead of the original traits.  
-
-3. **Mutation Result**  
-   - The baby receives the **new mutation trait**, replacing the two ingredient traits.
-   
-   
-![Mutation](./img/Mutation.png)
-
 ### Mutation Table
 
 | Ingredient 1        | Ingredient 2         | Result        |
@@ -154,6 +139,21 @@ When combined through breeding, these traits can **mutate into a completely new 
 | Content V           | Cheerful V           | Well-Loved V  |
 | Beepressed          | Malcontent           | Well-Loved VI |
 | Malcontent          | Grumpy               | Well-Loved VI |
+
+### 🔄 How It Works
+1. **Assign Parent Traits**  
+   - Parent A must have a trait from **Ingredient 1**.  
+   - Parent B must have a trait from **Ingredient 2**.  
+
+2. **Breed the Parents**  
+   - During breeding, the game checks for possible **mutation recipes**.  
+   - If the Ingredient 1 + Ingredient 2 combination exists, the offspring may inherit the **mutation result** instead of the original traits.  
+
+3. **Mutation Result**  
+   - The baby receives the **new mutation trait**, replacing the two ingredient traits.
+   
+   
+![Mutation](./img/Mutation.png)
 
 ---
 
