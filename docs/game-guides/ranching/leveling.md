@@ -12,6 +12,9 @@ Leveling up this skill **unlocks new animals, more purchasable guild store items
 ## 📈 How to Gain Ranching XP
 - Feeding animals daily. (Expierence is based on how much the **Focus** has been replenished)
 - Petting animals daily. (Experience gain will only happen when the pet does not have the **Status Effect** of **Recently Pet**)
+
+![Recently Pet](./img/Recently_Pet.png)
+
 - Collecting produce from animals. (Experience gain will be higher when the animal has **production speed/gain traits**)
  
 ---
