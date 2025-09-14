@@ -6,6 +6,10 @@ sidebar_position: 2
 
 Below you’ll find all known **functional traits**, grouped by their **Trait Group**.
 
+Animals can have **up to 6 Functional Traits** (with no cosmetic traits added then)
+
+Some **functional traits** can only be obtained by **mutation**, more info found in **Advanced Breeding** section.
+
 ---
 
 ## Age Rate
