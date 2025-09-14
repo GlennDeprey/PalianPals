@@ -64,7 +64,7 @@ This method uses **three animals of the same species** to increase your chances 
 
 One of the three animal can have a **Tasty Trait**, you can reroll them also just like **Technique 1**
 
-![Trait Treat](./img/Tasty_Trait_Treat)
+![Trait Treat](./img/Tasty_Trait_Treat.png)
 
 :::
 
