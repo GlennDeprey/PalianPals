@@ -35,7 +35,10 @@ Traits can include:
 ---
 
 ## 🔄 Breeding Limits
-- **Cooldown**: Parents will need rest time before breeding again , which could be solved with **Go Next Cookie**.  
+- **Cooldown**: Parents will need rest time before breeding again , which could be solved with **Go Next Cookie**.
+
+![Trait Treat](./img/Go_Next_Cookie.png)
+
 - **Ranch Capacity**: Breeding is only possible if you have enough space in your ranch.  
 
 ---
