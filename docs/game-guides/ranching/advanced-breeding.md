@@ -109,6 +109,9 @@ When combined through breeding, these traits can **mutate into a completely new 
 
 3. **Mutation Result**  
    - The baby receives the **new mutation trait**, replacing the two ingredient traits.
+   
+   
+![Mutation](./img/Mutation.png)
 
 ### Mutation Table
 
