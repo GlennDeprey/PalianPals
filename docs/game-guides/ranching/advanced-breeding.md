@@ -92,3 +92,78 @@ This method uses **three animals of the same species** to increase your chances 
 
 ---
 
+## 🧪 Technique 3: Mutation Traits
+Mutation Traits are **special outcomes** that occur when two parents each carry a different ingredient trait.  
+When combined through breeding, these traits can **mutate into a completely new trait** in the offspring.  
+
+---
+
+### 🔄 How It Works
+1. **Assign Parent Traits**  
+   - Parent A must have a trait from **Ingredient 1**.  
+   - Parent B must have a trait from **Ingredient 2**.  
+
+2. **Breed the Parents**  
+   - During breeding, the game checks for possible **mutation recipes**.  
+   - If the Ingredient 1 + Ingredient 2 combination exists, the offspring may inherit the **mutation result** instead of the original traits.  
+
+3. **Mutation Result**  
+   - The baby receives the **new mutation trait**, replacing the two ingredient traits.
+
+### Mutation Table
+
+| Ingredient 1        | Ingredient 2         | Result        |
+|---------------------|----------------------|---------------|
+| Malcontent          | Hangry               | Clingy        |
+| Beepressed          | Sensitive Stomach    | Content VI    |
+| Grumpy              | Sensitive Stomach    | Content VI    |
+| Grumpy              | Overstimulated       | Content VI    |
+| Soft I              | Sensitive Stomach    | Good Memory   |
+| Soft II             | Sensitive Stomach    | Good Memory   |
+| Cuddly              | Fast Metabolism I    | Happy Medium  |
+| Sensitive Stomach   | Needy                | Hardworking   |
+| Cuddly              | Sensitive Stomach    | Healthy       |
+| Malcontent          | Fast Metabolism I    | Healthy       |
+| Malcontent          | Fast Metabolism II   | Healthy       |
+| Needy               | Hangry               | Healthy       |
+| Beepressed          | Needy                | Mild          |
+| Needy               | Grumpy               | Mild          |
+| Needy               | Fast Metabolism I    | Mild          |
+| Needy               | Fast Metabolism II   | Mild          |
+| Sensitive Stomach   | Fast Metabolism I    | Mild          |
+| Sensitive Stomach   | Fast Metabolism II   | Mild          |
+| Beepressed          | Cuddly               | Motivated     |
+| Grumpy              | Cuddly               | Motivated     |
+| Sensitive Stomach   | Hangry               | Snacky        |
+| Cheerful I          | Malcontent           | Well-Loved I  |
+| Content II          | Cheerful II          | Well-Loved II |
+| Content III         | Cheerful III         | Well-Loved III|
+| Content IV          | Cheerful IV          | Well-Loved IV |
+| Content V           | Cheerful V           | Well-Loved V  |
+| Beepressed          | Malcontent           | Well-Loved VI |
+| Malcontent          | Grumpy               | Well-Loved VI |
+
+---
+
+### 📖 Example
+From the mutation recipes:  
+
+- If Parent A has **Malcontent** and Parent B has **Hangry**, the offspring may mutate into **Clingy**.  
+- If Parent A has **Grumpy** and Parent B has **Overstimulated**, the offspring may mutate into **Content VI**.  
+
+---
+
+### 🎯 Why Use Mutation Traits?
+- Unlocks **new traits** not directly obtainable through normal breeding.  
+- Allows breeders to **target rare and powerful traits** using known recipes.  
+- Adds depth and strategy by mixing traits across generations.  
+
+---
+
+### ⚠️ Tips & Notes
+- Mutations are **not guaranteed** — they may require multiple attempts.  
+- Only specific combinations (see **Mutation Table**) will result in a mutation.  
+- Best used once you have a **stable breeding line** and are hunting for rare traits.  
+
+---
+
