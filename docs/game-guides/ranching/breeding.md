@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Breeding
@@ -40,32 +40,3 @@ Traits can include:
 
 ---
 
-# 🆙 Leveling
-
-Your **Ranching skill** increases as you take care of animals in your ranch.  
-Leveling up this skill **unlocks new animals, more purchasable guild store items, more ranching animals slots and guild medals**
-
----
-
-## 📈 How to Gain Ranching XP
-- Feeding animals daily. (Expierence is based on how much the **Focus** has been replenished)
-- Petting animals daily. (Experience gain will only happen when the pet does not have the **Status Effect** of **Recently Pet**)
-- Collecting produce from animals. (Experience gain will be higher when the animal has **production speed/gain traits**)
- 
----
-
-## 🍽️ Best Way to Level
-The **most effective method** to quickly level up Ranching is by having animals with the traits:  
-
-- **Healthy Eater V (5)** → Grants **the highest XP gains** when feeding animals.
-- **Any production speed/gain trait** -> Grants **the highest XP gains** when gathering from animals.
-
-This drastically speeds up leveling since feeding, gathering becomes the most rewarding source of XP.  
-
----
-
-## 🎯 Leveling Tips
-- Focus on breeding animals with **Healthy Eater traits** and **production speed/gain trait**.  
-- Always keep your ranch full (within ranch capacity) to maximize XP per day.
-  
----
