@@ -25,7 +25,7 @@ This method is used when an animal already has unwanted traits, and you want to 
    
    ![Trait Treat](./img/Trait_Treat.png)
    
-   - Repeat Step 1 and 2 until the animal belongs to the **correct Trait Group** ur targeting (see [Functional Traits](../functional-traits) page for grouping details).  
+   - Repeat Step 1 and 2 until the animal belongs to the **correct Trait Group** ur targeting (see [Functional Traits](/functional-traits) page for grouping details).  
 
 3. **Refine with Reroll Cookie**  
    - Once the animal is in the correct Trait Group, use a **Reroll Cookie**.
