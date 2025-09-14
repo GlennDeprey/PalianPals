@@ -9,10 +9,10 @@ Welcome to the **Ranching Guide** for *Palia*! 🐄🐑🐇
 Ranching lets you raise, care for, and breed animals to produce valuable resources.  
 This section of the guide will walk you through:  
 
-- 🐾 Basics of ranching (getting started, pens, and care)  
+- 🐾 Basics of ranching (getting started, breeding, advanced breeding)  
 - 🍎 Feeding and preferred foods for animals  
 - 🐣 Breeding details and requirements  
-- 📊 Reference tables for animal growth and production 
+- 📊 Reference tables for functional/cosmetic traits and different treats
 
 ## Ranch Animals
 
