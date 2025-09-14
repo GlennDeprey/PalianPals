@@ -74,7 +74,7 @@ Keeping these bars filled is essential for **production, happiness, and efficien
 ---
 
 ## 🥛 Production Storage
-- Each interval, the animal produces items (milk, eggs, mushrooms, etc.).  
+- Each interval of 1, the animal produces items (milk, eggs, mushrooms, etc.) **which are collectable**.  
 - The bar fills as production accumulates.  
 - Once full, production stops until you **collect the stored items**.  
 - Regularly harvesting ensures animals **keep producing**.  
