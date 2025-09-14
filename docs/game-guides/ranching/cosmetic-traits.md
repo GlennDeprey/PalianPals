@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Below are all known **cosmetic traits**, grouped by **Animal** and **Trait Grouping**.
 
-Every cosmetic other then basic adds a 1.4x donation value multiplier.
+Every cosmetic other then default adds a 1.4x donation value multiplier.
 
 ---
 
