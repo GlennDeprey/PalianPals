@@ -26,9 +26,10 @@ This method is used when an animal already has unwanted traits, and you want to 
    
    ![Trait Treat](./img/Trait_Treat.png)
    
+   
    - Repeat Step 1 and 2 until the animal belongs to the **correct Trait Group** ur targeting (see **Functional Traits** page for grouping details).  
 
-3. **Refine with Reroll Cookie**  
+4. **Refine with Reroll Cookie**  
    - Once the animal is in the correct Trait Group, use a **Reroll Cookie**.
    
    ![Trait Treat](./img/Reroll_Cookie.png)
@@ -58,6 +59,14 @@ This method is used when an animal already has unwanted traits, and you want to 
 
 ## 🧬 Technique 2: Triple Breeding Method
 This method uses **three animals of the same species** to increase your chances of producing an offspring with the **desired trait combination**.  
+
+:::tip Tasty Trait
+
+One of the three animal can have a **Tasty Trait**, you can reroll them also just like **Technique 1**
+
+![Trait Treat](./img/Tasty_Trait_Treat)
+
+:::
 
 ### Steps:
 1. **Prepare Three Animals**  
