@@ -15,7 +15,7 @@ Leveling up this skill **unlocks new animals, more purchasable guild store items
 
 ![Recently Pet](./img/Recently_Pet.png)
 
-- Collecting produce from animals. (Experience gain will be higher when the animal has **production speed/gain traits**)
+- Collecting produce from animals. (Experience gain will be higher when the animal has **Production speed/gain traits**)
  
 ---
 
@@ -23,7 +23,7 @@ Leveling up this skill **unlocks new animals, more purchasable guild store items
 The **most effective method** to quickly level up Ranching is by having animals with the traits:  
 
 - **Healthy Eater V (5)** → Grants **the highest XP gains** when feeding animals.
-- **Any production speed/gain trait** -> Grants **the highest XP gains** when gathering from animals.
+- **Any Production speed/gain trait** -> Grants **the highest XP gains** when gathering from animals.
 
 This drastically speeds up leveling since feeding and gathering becomes the most rewarding source of XP.  
 
