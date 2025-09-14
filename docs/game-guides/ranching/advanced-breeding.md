@@ -68,7 +68,7 @@ This method uses **three animals of the same species** to increase your chances 
 
 3. **Final Combination**  
    - Ensure that you have the offspring with the **targeted trait combination**.  
-   - Breed the **Offspring animal** with 3th animal.  
+   - Breed the **Offspring animal** with the **3th animal**.  
 
 ---
 
